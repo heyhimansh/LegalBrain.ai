@@ -62,3 +62,5 @@ const AboutSectionTwo = () => {
 };
 
 export default AboutSectionTwo;
+
+
