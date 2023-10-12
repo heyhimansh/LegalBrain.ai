@@ -101,7 +101,7 @@ const Dashboard = async ({}) => {
             <div className="flex flex-col items center justify-between p-4 gap-4">
               <h2 className="font-bold text-4xl">Law GPT</h2>
               <p className="text-lg font-medium">
-              Supercharge your legal practice with LawGPT, the AI model that revolutionizes case preparation. Input basic case details and receive valuable suggestions, references, and relevant judgments in minutes. Craft persuasive arguments, save time and resources, and stay updated with the latest legal insights for optimal outcomes. Empower your practice with LawGPT's comprehensive knowledge base and elevate your legal expertise today.
+              Supercharge your legal practice with LawGPT, the AI model that revolutionizes case preparation. Input basic case details and receive valuable suggestions, references, and relevant judgments in minutes. Craft persuasive arguments, save time and resources, and stay updated with the latest legal insights for optimal outcomes. Empower your practice with LawGPT&apos;s comprehensive knowledge base and elevate your legal expertise today.
               </p>
             </div>
           </div>
@@ -113,7 +113,7 @@ const Dashboard = async ({}) => {
           </div>
           <div className="flex flex-col items center justify-between p-4 gap-4">
             <h2 className="font-bold text-4xl">Judgment/Cases Finder</h2>
-            <p className="text-lg font-medium">Unlock the hidden gems of legal precedents with LawGPT's advanced Judgment/Case Finder feature. Seamlessly input relevant keywords or case details, and witness the magic unfold as LawGPT swiftly combs through vast legal databases to deliver a curated selection of judgments and cases tailored to your needs. </p>
+            <p className="text-lg font-medium">Unlock the hidden gems of legal precedents with LawGPT&apos;s advanced Judgment/Case Finder feature. Seamlessly input relevant keywords or case details, and witness the magic unfold as LawGPT swiftly combs through vast legal databases to deliver a curated selection of judgments and cases tailored to your needs. </p>
           </div>
         </div>
       </Link>

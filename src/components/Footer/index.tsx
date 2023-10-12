@@ -38,13 +38,14 @@ const Footer = () => {
                     aria-label="social-link"
                     className="mr-6 "
                   >
-                    <img
-                      width="22"
-                      height="20"
+                    {/* <Image
+                      width={22}
+                      height={20}
                       src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png"
+                      alt="null"
                       
                       className="fill-current"
-                    />
+                    /> */}
                   </a>
                   <a
                     href="/"

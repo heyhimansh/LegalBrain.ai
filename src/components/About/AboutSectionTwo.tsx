@@ -24,7 +24,7 @@ const AboutSectionTwo = () => {
                   Bug free code
                 </h3> */}
                 <p className="text-base leading-relaxed  sm:text-lg sm:leading-relaxed">
-                At LegalBrain.ai, we understand the unique challenges faced by legal professionals. That's why we have developed a suite of powerful features designed specifically for the legal industry.
+                At LegalBrain.ai, we understand the unique challenges faced by legal professionals. That&apos;s why we have developed a suite of powerful features designed specifically for the legal industry.
                 </p>
                 <br />
                 <p className="text-base leading-relaxed  sm:text-lg sm:leading-relaxed">
