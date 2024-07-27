@@ -14,7 +14,7 @@ import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 
 export default async function Home() {
 
-  await db.set('hello' , 'hello')
+  // await db.set('hello' , 'hello')
   return (
     <div>
       <Header />
